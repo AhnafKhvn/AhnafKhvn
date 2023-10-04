@@ -4,9 +4,8 @@
   <img alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </div>
 
-<p align="center">
-  🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
-</p>
+
+<p align="center">🔭 I’m currently working on <a href="https://github.com/open-source-labs/ReacType">ReacType</a></p>
 
 <p align="center">
   🌱 I’m currently learning <strong>React Native and Vue.js</strong>
@@ -17,7 +16,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me <strong>ahnafkhan3@gmail.com</strong>
+  📫 Email me at <strong>ahnafkhan3@gmail.com</strong>
 </p>
 
 <h3 align="center">Connect with me:</h3>
