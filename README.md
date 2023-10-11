@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
 
-- 🌱 I’m currently learning **React Native and Vue.js**
+- 🌱 I’m currently learning **How to deploy a mobile app using React Native and X-code as well as Vue.js!**
 
 - 💬 Ask me about **MERN, Jest, or AWS!**
 
